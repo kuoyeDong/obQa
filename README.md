@@ -1,2 +1,1 @@
-# obQa
-ob question and answer
+## ob qa
